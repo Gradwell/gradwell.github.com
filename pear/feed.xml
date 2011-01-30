@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.gradwell.com">
+    <title>Gradwell PEAR channel Latest Releases</title>
+    <link href="http://pear.gradwell.com" />
+    <author>
+        <name>http://pear.gradwell.com</name>
+    </author>
+
+    <entry>
+        <title>Autoloader 1.0.0 (stable)</title>
+        <link href="http://pear.gradwell.com/get/Autoloader-1.0.0.tgz" />
+        <id>Autoloader-1.0.0</id>
+        <author>
+            <name>stuart</name>
+        </author>
+        <updated>2011-01-28T13:23:22+00:00</updated>
+        <content>
+            
+    Autoloader is a PSR0-compatible autoloader.
+  
+        </content>
+    </entry>    <entry>
+        <title>phin 0.0.4 (stable)</title>
+        <link href="http://pear.gradwell.com/get/phin-0.0.4.tgz" />
+        <id>phin-0.0.4</id>
+        <author>
+            <name>stuherbert</name>
+        </author>
+        <updated>2011-01-28T15:09:28+00:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>    <entry>
+        <title>phin 0.0.3 (stable)</title>
+        <link href="http://pear.gradwell.com/get/phin-0.0.3.tgz" />
+        <id>phin-0.0.3</id>
+        <author>
+            <name>stuherbert</name>
+        </author>
+        <updated>2011-01-28T14:10:20+00:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>    <entry>
+        <title>phin 0.0.2 (stable)</title>
+        <link href="http://pear.gradwell.com/get/phin-0.0.2.tgz" />
+        <id>phin-0.0.2</id>
+        <author>
+            <name>stuherbert</name>
+        </author>
+        <updated>2011-01-28T08:55:31+00:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>    <entry>
+        <title>phin 0.0.1 (stable)</title>
+        <link href="http://pear.gradwell.com/get/phin-0.0.1.tgz" />
+        <id>phin-0.0.1</id>
+        <author>
+            <name>stuherbert</name>
+        </author>
+        <updated>2011-01-28T05:41:54+00:00</updated>
+        <content>
+            
+    A handy command-line tool to provide structure to any commands / tasks you need to run on the command line.
+  
+        </content>
+    </entry>
+</feed>

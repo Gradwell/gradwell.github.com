@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.gradwell.com/pear">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://gradwell.github.com/pear">
     <title>Gradwell PEAR channel Latest Releases</title>
-    <link href="http://pear.gradwell.com/pear" />
+    <link href="http://gradwell.github.com/pear" />
     <author>
-        <name>http://pear.gradwell.com/pear</name>
+        <name>http://gradwell.github.com/pear</name>
     </author>
 
     <entry>
         <title>Autoloader 1.0.0 (stable)</title>
-        <link href="http://pear.gradwell.com/pear/get/Autoloader-1.0.0.tgz" />
+        <link href="http://gradwell.github.com/pear/get/Autoloader-1.0.0.tgz" />
         <id>Autoloader-1.0.0</id>
         <author>
             <name>stuart</name>
@@ -21,7 +21,7 @@
         </content>
     </entry>    <entry>
         <title>phin 0.0.4 (stable)</title>
-        <link href="http://pear.gradwell.com/pear/get/phin-0.0.4.tgz" />
+        <link href="http://gradwell.github.com/pear/get/phin-0.0.4.tgz" />
         <id>phin-0.0.4</id>
         <author>
             <name>stuherbert</name>
@@ -34,7 +34,7 @@
         </content>
     </entry>    <entry>
         <title>phin 0.0.3 (stable)</title>
-        <link href="http://pear.gradwell.com/pear/get/phin-0.0.3.tgz" />
+        <link href="http://gradwell.github.com/pear/get/phin-0.0.3.tgz" />
         <id>phin-0.0.3</id>
         <author>
             <name>stuherbert</name>
@@ -47,7 +47,7 @@
         </content>
     </entry>    <entry>
         <title>phin 0.0.2 (stable)</title>
-        <link href="http://pear.gradwell.com/pear/get/phin-0.0.2.tgz" />
+        <link href="http://gradwell.github.com/pear/get/phin-0.0.2.tgz" />
         <id>phin-0.0.2</id>
         <author>
             <name>stuherbert</name>
@@ -60,7 +60,7 @@
         </content>
     </entry>    <entry>
         <title>phin 0.0.1 (stable)</title>
-        <link href="http://pear.gradwell.com/pear/get/phin-0.0.1.tgz" />
+        <link href="http://gradwell.github.com/pear/get/phin-0.0.1.tgz" />
         <id>phin-0.0.1</id>
         <author>
             <name>stuherbert</name>
